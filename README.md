@@ -1,7 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
-<center>Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.</center>
-
 <p align="center">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
@@ -9,6 +7,9 @@
 </p>
 
 <br>
+
+<center>Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.</center>
+
 
 <p align="center">
     <Strong>🚀Tech Stack🚀</Strong><br>
