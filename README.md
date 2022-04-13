@@ -5,11 +5,9 @@
 <br><br>
 <Strong>📧Email📧</Strong><br>pmg6484@naver.com<br>
 </p>
-
 <br>
-
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.<br>
+    🖐️Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.<br><br>
 </p>
 
 <p align="center">
