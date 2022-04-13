@@ -8,10 +8,8 @@
 
 <br>
 
-<center>Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.</center>
-
-
 <p align="center">
+    Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.
     <Strong>🚀Tech Stack🚀</Strong><br>
     💡used as the main
 </p>
