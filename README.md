@@ -12,7 +12,7 @@
 
 <p align="center">
     <Strong>🚀Tech Stack🚀</Strong><br>
-    💡used as the main
+    💡 used as the main
 </p>
 
 <p align="center" display="inline-block">
@@ -24,8 +24,7 @@
 </p><br>
 
 <p align="center">
-    <Strong>✈️Tech Stack✈️</Strong><br>
-    💡used as the sub
+    🔆 used as the sub<br>
 </p>
 
 <p align="center" display="inline-block">
