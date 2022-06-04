@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=CMake&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=Docker&logoColor="white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p><br>
 
 <div align=center>
