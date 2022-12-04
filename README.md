@@ -3,11 +3,13 @@
 <p align="center">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>pmg6484@naver.com<br>
+<Strong>📧Email📧</Strong><br>m1n9yu@kaist.ac.kr<br>
 </p>
 <br>
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. I'm majoring robotics in Kwangwoon university.<br><br>
+    🖐️Hi! My name is Mingyu Park. I majored in robotics as B.S at Kwangwoon university, and I'm majoring in robotics as a M.S at KAIST.
+   <br><br>
+   My research interest is control and planning on robotics and application of reinforcement learning
 </p>
 
 <p align="center">
