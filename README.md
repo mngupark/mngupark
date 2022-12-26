@@ -7,9 +7,16 @@
 </p>
 <br>
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. I majored in robotics as B.S at Kwangwoon university, and I'm majoring in robotics as a M.S at KAIST.
-   <br>
+    🖐️Hi! My name is Mingyu Park. It always makes me feel fabulous when talking about enormous topics of robotics!<br>
    My research interest is control and planning on robotics and application of reinforcement learning.<br>
+</p>
+
+<p align="center">
+   <Strong>📖Education📖</Strong><br> 
+   <ul>
+      <li>B.S: robotics at Kwangwoon University</li>
+      <li>M.S: robotics at KAIST (current)</li>
+   </ul>
 </p>
 
 <p align="center">
