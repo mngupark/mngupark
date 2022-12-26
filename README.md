@@ -14,10 +14,12 @@
 <p align="center">
    <Strong>📖Education📖</Strong><br> 
    <div align="center">
-   <ul>
-      <li>B.S: robotics at Kwangwoon University</li>
-      <li>M.S: robotics at KAIST (current)</li>
-   </ul>
+   <dl>
+      <dt>B.S</dt>
+      <dd>Robotics at Kwangwoon University</dd>
+      <dt>M.S</dt>
+      <dd>Robotics at KAIST (current)</dd>
+   </dl>
    </div>
 </p>
 
