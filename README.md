@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-   <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/></a>
+   <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>m1n9yu@kaist.ac.kr<br>
 </p>
@@ -55,4 +55,4 @@
 <div align=center>
 
 ![Gyuhub's github stats](https://github-readme-stats.vercel.app/api?username=Gyuhub&show_icons=true)
-[![Gyuhub's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuhub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Gyuhub's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuhub&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
