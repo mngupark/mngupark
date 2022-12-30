@@ -2,6 +2,7 @@
 
 <p align="center">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>m1n9yu@kaist.ac.kr<br>
 </p>
@@ -30,7 +31,7 @@
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -54,3 +55,4 @@
 <div align=center>
 
 ![Gyuhub's github stats](https://github-readme-stats.vercel.app/api?username=Gyuhub&show_icons=true)
+[![Gyuhub's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuhub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
