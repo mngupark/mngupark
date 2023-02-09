@@ -54,5 +54,5 @@
 
 <div align=center>
 
-![Gyuhub's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Gyuhub&show_icons=true&theme=tokyonight)
-[![Gyuhub's top langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Gyuhub&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Gyuhub's github stats](https://github-readme-stats-one.vercel.app/api?username=Gyuhub&show_icons=true&theme=tokyonight)
+[![Gyuhub's top langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gyuhub&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
