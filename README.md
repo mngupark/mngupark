@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. It always makes me feel excited to dream about enormous topics in robotics!<br>
+    🖐️Hi! My name is Mingyu Park. It always makes me feel excited to talk about enormous topics in robotics!<br>
    My research interest is control and planning on robotics and application of reinforcement learning.<br>
 </p>
 
