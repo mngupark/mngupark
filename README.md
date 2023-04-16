@@ -19,8 +19,8 @@
       <dt>B.S</dt>
       <dd>Robotics at Kwangwoon University</dd>
       <dt>M.S</dt>
-      <dd>Robotics at KAIST (current)</dd>
-      <dd><a href="https://sites.google.com/site/donghwanleehome">Machine Decision And Intelligence Research Group</a></dd>
+      <dd>Robotics at KAIST (current)<br>
+      <a href="https://sites.google.com/site/donghwanleehome">Machine Decision And Intelligence Research Group</a></dd>
    </dl>
    </div>
 </p>
