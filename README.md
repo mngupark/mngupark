@@ -4,16 +4,16 @@
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
    <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>m1n9yu@kaist.ac.kr<br>
+<Strong>📧 Email 📧</Strong><br>m1n9yu@kaist.ac.kr<br>
 </p>
 <br>
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. It always makes me feel excited to talk about enormous topics in robotics!<br>
+    🖐️Hi! My name is Mingyu Park. It is always exciting to talk about enormous topics in robotics!<br>
    My research interest is control and planning on robotics and application of reinforcement learning.<br>
 </p>
 
 <p align="center">
-   <Strong>📖Education📖</Strong><br> 
+   <Strong>📖 Education 📖</Strong><br> 
    <div align="center">
    <dl>
       <dt>B.S</dt>
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <Strong>🚀Tech Stack🚀</Strong><br>
+    <Strong>🚀 Tech Stack 🚀</Strong><br>
     💡 used as the main
 </p>
 
