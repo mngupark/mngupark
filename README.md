@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=Octave&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAIGym-0081A5?style=for-the-badge&logo=OpenAIGym&logoColor=white">
 </p><br>
 
 <div align=center>
