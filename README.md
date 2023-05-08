@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=반갑습니다!&#x1F44B&fontSize=70&animation=scaleIn &fontAlignY=34&desc=github.com/Gyuhub&descAlignY=51&descAlign=75&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=반갑습니다!%20%F0%9F%91%8B&fontSize=70&animation=scaleIn &fontAlignY=34&desc=github.com/Gyuhub&descAlignY=51&descAlign=75&color=gradient)
 
 <p align="center">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
