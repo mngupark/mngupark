@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     🖐️Hi! My name is Mingyu Park. It is always exciting to talk about enormous topics in robotics!<br>
-   My research interest is control and planning on robotics and application of reinforcement learning.<br>
+   I'm interested in control and motion planning of robotics and application of reinforcement learning.<br>
 </p>
 
 <p align="center">
