@@ -4,7 +4,7 @@
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
    <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
 <br><br>
-<Strong>📧 Email 📧</Strong><br><a href="mailto:alsrb0820@gmail.com">alsrb0820@gmail.com</a><br><a href="mailto:m1n9yu@kaist.ac.kr">m1n9yu@kaist.ac.kr</a><br>
+<Strong>📧 Email 📧</Strong><br><a href="mailto:mngupark@gmail.com">mngupark@gmail.com</a><br><a href="mailto:m1n9yu@kaist.ac.kr">m1n9yu@kaist.ac.kr</a><br>
 </p>
 <br>
 <p align="center">
