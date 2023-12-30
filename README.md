@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     🖐️Hi! My name is Mingyu Park. It is always exciting to talk about enormous topics in robotics!<br>
-    I'm interested in autonomous and intelligent robots that can interact with unknown environments and adapt to multiple tasks leveraging skills learned from experiences these days.<br>
+    I'm interested in autonomous and intelligent robots that can effectively interact with unknown environments and adapt to tasks leveraged by the generative AI and transformers these days.<br>
 </p>
 
 <p align="center">
