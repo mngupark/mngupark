@@ -9,7 +9,8 @@
 <br>
 <p align="center">
     🖐️Hi! My name is Mingyu Park. It is always exciting to talk about enormous topics in robotics!<br>
-    I'm interested in autonomous and intelligent robots that can effectively interact with unknown environments and adapt to tasks leveraged by the generative AI and transformers these days.<br>
+   I'm especially interested in intelligent robots that can learn from experiences and generalize to unseen tasks.<br>
+   Formally, my research interest interleaves between reinforcement learning, self-supervised learning, and representation learning.
 </p>
 
 <p align="center">
@@ -30,14 +31,14 @@
     💡 used as the main
 </p>
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+<p align="center" display="inline-block">   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=CMake&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAIGym-0081A5?style=for-the-badge&logo=OpenAIGym&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
 </p><br>
 
 <p align="center">
@@ -45,6 +46,9 @@
 </p>
 
 <p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=CMake&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
@@ -52,8 +56,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=Octave&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAIGym-0081A5?style=for-the-badge&logo=OpenAIGym&logoColor=white">
 </p><br>
 
 <div align=center>
