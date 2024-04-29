@@ -1,8 +1,8 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=반갑습니다!%20%F0%9F%91%8B&fontSize=70&animation=scaleIn&fontAlignY=34&desc=github.com/Gyuhub&descAlignY=51&descAlign=75&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=반갑습니다!%20%F0%9F%91%8B&fontSize=70&animation=scaleIn&fontAlignY=34&desc=github.com/mngupark&descAlignY=51&descAlign=75&color=gradient)
 
 <p align="center">
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuhub%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-   <a href="https://gyuhub.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmngupark%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   <a href="https://mngupark.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
 <br><br>
 <Strong>📧 Email 📧</Strong><br><a href="mailto:mngupark@gmail.com">mngupark@gmail.com</a><br><a href="mailto:m1n9yu@kaist.ac.kr">m1n9yu@kaist.ac.kr</a><br>
 </p>
@@ -61,5 +61,5 @@
 
 <div align=center>
 
-![Gyuhub's github stats](https://github-readme-stats-one.vercel.app/api?username=Gyuhub&show_icons=true&theme=tokyonight)
-[![Gyuhub's top langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gyuhub&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![mngupark's github stats](https://github-readme-stats-one.vercel.app/api?username=mngupark&show_icons=true&theme=tokyonight)
+[![mngupark's top langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=mngupark&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
