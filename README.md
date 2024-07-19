@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    🖐️Hi! My name is Mingyu Park. It is always exciting to talk about enormous topics in robotics!<br>
+    🖐️Hi! This is Mingyu Park. It is always fabulous to talk about prevalent topics in robotics and AI!<br>
    My research goal is to build real-world robots that can benefit artificial general intelligence (AGI).<br>
    I'm especially interested in intelligent robots that can learn from experiences and generalize to unseen tasks.<br>
    Formally, my research interest interleaves between reinforcement learning, self-supervised learning, and foundation models.
