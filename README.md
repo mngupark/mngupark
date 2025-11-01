@@ -1,14 +1,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=반갑습니다!%20%F0%9F%91%8B&fontSize=70&animation=scaleIn&fontAlignY=34&desc=github.com/mngupark&descAlignY=51&descAlign=75&color=gradient)
 
 <p align="center">
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmngupark%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
    <a href="https://mngupark.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat&logo=Github&logoColor=white"/></a>
 <br><br>
-<Strong>📧 Email 📧</Strong><br><a href="mailto:mngupark@etri.re.kr">mngupark@etri.re.kr</a><br><a href="mailto:mngupark@gmail.com">mngupark@gmail.com</a><br><a href="mailto:m1n9yu@kaist.ac.kr">m1n9yu@kaist.ac.kr</a><br>
+<Strong>📧 Email 📧</Strong><br><a href="mailto:mngupark@etri.re.kr">mngupark@etri.re.kr</a><br>
 </p>
 <br>
 <p align="center">
-    🖐️Hi! I'm Mingyu Park. I'm a post-master's researcher at ETRI. It is always fabulous to talk about prevalent topics in robotics and AI!<br>
+    🖐️Hi! I'm Mingyu Park. I'm a post-master's researcher at <a href="https://www.etri.re.kr/eng/main/main.etri">ETRI</a>. It is always fabulous to talk about prevalent topics in robotics and AI!<br>
    My research goal is to build real-world robots that can benefit artificial general intelligence (AGI).<br>
    I'm especially interested in intelligent robots that can learn from experiences and generalize to unseen tasks.<br>
    My research interest mainly concerns offline reinforcement learning, self-supervised learning, and foundation models.
