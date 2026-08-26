@@ -28,7 +28,7 @@
 
 <p align="center">
     <Strong>🚀 Tech Stack 🚀</Strong><br>
-    💡 used as the main
+    💡 Main branches
 </p>
 
 <p align="center" display="inline-block">   
@@ -42,7 +42,7 @@
 </p><br>
 
 <p align="center">
-    🔆 used as the sub<br>
+    🔆 Sub branches<br>
 </p>
 
 <p align="center" display="inline-block">
