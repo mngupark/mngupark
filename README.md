@@ -10,9 +10,9 @@
    <Strong>📖 Education 📖</Strong><br> 
    <div align="center">
    <dl>
-      <dt>B.S</dt>
-      <dd>Robotics at Kwangwoon University</dd>
-      <dt>M.S</dt>
+      <dt>B.E.</dt>
+      <dd>Robotics Engineering at Kwangwoon University</dd>
+      <dt>M.S.</dt>
       <dd>Robotics Program at KAIST<br>
       <a href="https://sites.google.com/site/donghwanleehome">Reinforced Decision Intelligence Lab</a></dd>
    </dl>
